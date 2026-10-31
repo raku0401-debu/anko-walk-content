@@ -6,6 +6,13 @@
    "courseId": "musashino",
    "id": "pouch",
    "name": "電車旅ポーチ"
+  },
+  {
+   "id": "hamaya",
+   "name": "破魔矢",
+   "color": "#C0392B",
+   "cond": "期間限定「初詣さんぽ」歩行制覇",
+   "courseId": ""
   }
  ],
  "courses": [
@@ -58,8 +65,37 @@
    "reward": "電車旅ポーチ"
   }
  ],
- "events": [],
- "version": 4,
+ "events": [
+  {
+   "id": "ev_hatsumode",
+   "name": "初詣さんぽ",
+   "dist": 15.0,
+   "desc": "年末年始だけの短編。川越の神社仏閣を巡って、最後は氷川神社で初詣気分。",
+   "cps": [
+    [
+     "熊野神社",
+     4.0
+    ],
+    [
+     "川越八幡宮",
+     8.0
+    ],
+    [
+     "喜多院",
+     12.0
+    ],
+    [
+     "川越氷川神社",
+     15.0
+    ]
+   ],
+   "reward": "破魔矢",
+   "rewardId": "hamaya",
+   "start": "2026-12-29",
+   "end": "2027-01-07"
+  }
+ ],
+ "version": 5,
  "certArts": [
   {
    "id": "trophy_pixel",
