@@ -1,1 +1,82 @@
-{"accs": [{"color": "#5A7DE7", "cond": "配信コース「武蔵野線」歩行制覇", "courseId": "musashino", "id": "pouch", "name": "電車旅ポーチ"}], "courses": [{"cps": [["川越（分岐）", 8.0], ["板橋", 25.0], ["池袋", 30.0], ["新宿", 36.9]], "desc": "大宮から池袋・新宿を通って大崎へ。川越線とあわせてお世話になる路線。", "dist": 36.9, "genre": "電車", "id": "saikyo", "name": "埼京線 大宮〜大崎", "reward": "駅員風バッジ"}, {"cps": [["西国分寺", 10.0], ["新三郷", 45.0], ["西船橋", 71.8]], "desc": "東京の外側をぐるっと回る貨物出身の環状線。新三郷や南越谷を通る。", "dist": 71.8, "genre": "電車", "id": "musashino", "name": "武蔵野線 府中本町〜西船橋", "reward": "電車旅ポーチ"}], "events": [], "version": 2, "certArts": [{"id": "trophy_pixel", "group": "ドット絵・追加", "label": "ポーズ3：トロフィー", "url": "https://muse.ai/files/1365834696624342/1480349097301372/6zwpw4ftv4vk50awstlwqyk6/cert_trophy.webp"}]}
+{
+ "accs": [
+  {
+   "color": "#5A7DE7",
+   "cond": "配信コース「武蔵野線」歩行制覇",
+   "courseId": "musashino",
+   "id": "pouch",
+   "name": "電車旅ポーチ"
+  }
+ ],
+ "courses": [
+  {
+   "cps": [
+    [
+     "川越（分岐）",
+     8.0
+    ],
+    [
+     "板橋",
+     25.0
+    ],
+    [
+     "池袋",
+     30.0
+    ],
+    [
+     "新宿",
+     36.9
+    ]
+   ],
+   "desc": "大宮から池袋・新宿を通って大崎へ。川越線とあわせてお世話になる路線。",
+   "dist": 36.9,
+   "genre": "電車",
+   "id": "saikyo",
+   "name": "埼京線 大宮〜大崎",
+   "reward": "駅員風バッジ"
+  },
+  {
+   "cps": [
+    [
+     "西国分寺",
+     10.0
+    ],
+    [
+     "新三郷",
+     45.0
+    ],
+    [
+     "西船橋",
+     71.8
+    ]
+   ],
+   "desc": "東京の外側をぐるっと回る貨物出身の環状線。新三郷や南越谷を通る。",
+   "dist": 71.8,
+   "genre": "電車",
+   "id": "musashino",
+   "name": "武蔵野線 府中本町〜西船橋",
+   "reward": "電車旅ポーチ"
+  }
+ ],
+ "events": [],
+ "version": 3,
+ "certArts": [
+  {
+   "id": "trophy_pixel",
+   "group": "ドット絵・追加",
+   "label": "ポーズ3：トロフィー",
+   "url": "https://muse.ai/files/1365834696624342/1480349097301372/6zwpw4ftv4vk50awstlwqyk6/cert_trophy.webp"
+  }
+ ],
+ "outfits": [
+  {
+   "id": "cafe",
+   "name": "カフェ巡りコーデ",
+   "color": "#B5651D",
+   "cond": "配信「埼京線」歩行制覇",
+   "unlockCourse": "saikyo",
+   "frameCount": 17,
+   "framesUrl": "https://raku0401-debu.github.io/anko-walk-content/frames_cafe.webp"
+  }
+ ]
+}
