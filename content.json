@@ -12,7 +12,8 @@
    "name": "破魔矢",
    "color": "#C0392B",
    "cond": "期間限定「初詣さんぽ」歩行制覇",
-   "courseId": ""
+   "courseId": "",
+   "artUrl": "https://raku0401-debu.github.io/anko-walk-content/deco_hamaya.webp"
   }
  ],
  "courses": [
@@ -95,7 +96,7 @@
    "end": "2027-01-07"
   }
  ],
- "version": 5,
+ "version": 6,
  "certArts": [
   {
    "id": "trophy_pixel",
