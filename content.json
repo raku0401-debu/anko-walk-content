@@ -96,7 +96,7 @@
    "end": "2027-01-07"
   }
  ],
- "version": 6,
+ "version": 7,
  "certArts": [
   {
    "id": "trophy_pixel",
@@ -113,7 +113,7 @@
    "cond": "配信「埼京線」歩行制覇",
    "unlockCourse": "saikyo",
    "frameCount": 17,
-   "framesUrl": "https://raku0401-debu.github.io/anko-walk-content/frames_cafe2.webp"
+   "framesUrl": "https://raku0401-debu.github.io/anko-walk-content/frames_cafe3.webp"
   }
  ]
 }
